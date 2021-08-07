@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### THINGS TO DO:
-# 1. Visualization on confirmed cases for the whole country
-# 2. Compare mortality rate of available data with the one calculated by WHO
-# 3. EDA on the country data
-# 4. Data visualization for each state
-# 5. Perform ANOVA after dividing states into different groups
-
 # In[ ]:
 
 
