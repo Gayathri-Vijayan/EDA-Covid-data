@@ -1,4 +1,4 @@
-# EDA-Covid-data
+# Exploratory Data Analysis on Covid-data
 
 -   Visualization on confirmed cases for the whole country
 -   Compare mortality rate of available data with the one calculated by WHO
